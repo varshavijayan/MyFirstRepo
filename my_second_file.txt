@@ -1,4 +1,2 @@
 this is my second file
 editing my second file
-
-I don't quite understand how git works 
