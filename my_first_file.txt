@@ -1,4 +1,2 @@
 hello this is my first file for learning git version control. 
-why isn't this working?
-I don't know how to fix this problem with git. 
-I really want to fix this and learn git properly! 
+is this working?
