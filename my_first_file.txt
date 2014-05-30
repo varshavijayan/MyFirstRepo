@@ -1,3 +1,7 @@
+modifying first file.
+
+make changes and push it to the repository
+
 hello this is my first file for learning git version control. 
 why isn't this working?
 I don't know how to fix this problem with git. 
